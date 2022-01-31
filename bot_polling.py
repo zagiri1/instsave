@@ -7,8 +7,8 @@ from config import *
 api = f"https://api.telegram.org/bot{token_bot}/"
 update_id = 0
 
-print("BOT ACTIVED")
-print("PRESS CTRL + C TO EXIT ")
+print("Бот запущен")
+print("Нажми CTRL + C чтобы оффнуть бота")
 while True:
 	try:
 		req = get(f"https://api.telegram.org/bot{token_bot}/getupdates",params={"offset":update_id}).json()

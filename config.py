@@ -1,3 +1,3 @@
 
 #token bot from botfather
-token_bot = "5070394868:AAE0gHQUwpzhwr6dY5tFdn3n8mVCroCRFaI"
+token_bot = "5200615980:AAGRicp2lFDcio6bMlwMx7j1wVFScFBGwCo"
